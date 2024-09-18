@@ -7,7 +7,7 @@ b=10.2345
 print("The type of variable having value", b, " is ", type(b))
 
 #create a variable with complex value.
-c=100+3j
+c=100+4j
 print("The type of variable having value", c, " is ", type(c))
 
 ###-------------------
